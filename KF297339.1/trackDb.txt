@@ -22,7 +22,7 @@ track a_0_h_FW
 parent a_0_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-KF297339.1-SIC-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-KF297339.1-SIC-FW.bw
 longLabel a_0_h_FW
 shortLabel a_0_h_FW
 negateValues off
@@ -36,7 +36,7 @@ track a_0_h_RV
 parent a_0_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-KF297339.1-SIC-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-KF297339.1-SIC-RV.bw
 longLabel a_0_h_RV
 shortLabel a_0_h_RV
 negateValues on
@@ -61,7 +61,7 @@ track a_0_h_Flavo_FW
 parent a_0_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-Flavo-KF297339.1-SIC-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-Flavo-KF297339.1-SIC-FW.bw
 longLabel a_0_h_Flavo_FW
 shortLabel a_0_h_Flavo_FW
 negateValues off
@@ -75,7 +75,7 @@ track a_0_h_Flavo_RV
 parent a_0_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-Flavo-KF297339.1-SIC-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-Flavo-KF297339.1-SIC-RV.bw
 longLabel a_0_h_Flavo_RV
 shortLabel a_0_h_Flavo_RV
 negateValues on
@@ -100,7 +100,7 @@ track a_4_h_FW
 parent a_4_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-4hpi-KF297339.1-SIC-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-4hpi-KF297339.1-SIC-FW.bw
 longLabel a_4_h_FW
 shortLabel a_4_h_FW
 negateValues off
@@ -114,7 +114,7 @@ track a_4_h_RV
 parent a_4_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-4hpi-KF297339.1-SIC-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-4hpi-KF297339.1-SIC-RV.bw
 longLabel a_4_h_RV
 shortLabel a_4_h_RV
 negateValues on
@@ -139,7 +139,7 @@ track a_4_h_Flavo_FW
 parent a_4_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-4hpi-Flavo-KF297339.1-SIC-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-4hpi-Flavo-KF297339.1-SIC-FW.bw
 longLabel a_4_h_Flavo_FW
 shortLabel a_4_h_Flavo_FW
 negateValues off
@@ -153,7 +153,7 @@ track a_4_h_Flavo_RV
 parent a_4_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-4hpi-Flavo-KF297339.1-SIC-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-4hpi-Flavo-KF297339.1-SIC-RV.bw
 longLabel a_4_h_Flavo_RV
 shortLabel a_4_h_Flavo_RV
 negateValues on
@@ -178,7 +178,7 @@ track a_12_h_FW
 parent a_12_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-12hpi-KF297339.1-SIC-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-12hpi-KF297339.1-SIC-FW.bw
 longLabel a_12_h_FW
 shortLabel a_12_h_FW
 negateValues off
@@ -192,7 +192,7 @@ track a_12_h_RV
 parent a_12_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-12hpi-KF297339.1-SIC-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-12hpi-KF297339.1-SIC-RV.bw
 longLabel a_12_h_RV
 shortLabel a_12_h_RV
 negateValues on
@@ -217,7 +217,7 @@ track a_12_h_Flavo_FW
 parent a_12_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-12hpi-Flavo-KF297339.1-SIC-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-12hpi-Flavo-KF297339.1-SIC-FW.bw
 longLabel a_12_h_Flavo_FW
 shortLabel a_12_h_Flavo_FW
 negateValues off
@@ -231,7 +231,7 @@ track a_12_h_Flavo_RV
 parent a_12_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-12hpi-Flavo-KF297339.1-SIC-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-12hpi-Flavo-KF297339.1-SIC-RV.bw
 longLabel a_12_h_Flavo_RV
 shortLabel a_12_h_Flavo_RV
 negateValues on
@@ -256,7 +256,7 @@ track a_24_h_FW
 parent a_24_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-SIC-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-SIC-FW.bw
 longLabel a_24_h_FW
 shortLabel a_24_h_FW
 negateValues off
@@ -270,7 +270,7 @@ track a_24_h_RV
 parent a_24_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-SIC-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-SIC-RV.bw
 longLabel a_24_h_RV
 shortLabel a_24_h_RV
 negateValues on
@@ -295,7 +295,7 @@ track a_24_h_Flavo_FW
 parent a_24_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-SIC-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-SIC-FW.bw
 longLabel a_24_h_Flavo_FW
 shortLabel a_24_h_Flavo_FW
 negateValues off
@@ -309,7 +309,7 @@ track a_24_h_Flavo_RV
 parent a_24_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-SIC-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-SIC-RV.bw
 longLabel a_24_h_Flavo_RV
 shortLabel a_24_h_Flavo_RV
 negateValues on
@@ -334,7 +334,7 @@ track a_48_h_FW
 parent a_48_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-48hpi-KF297339.1-SIC-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-48hpi-KF297339.1-SIC-FW.bw
 longLabel a_48_h_FW
 shortLabel a_48_h_FW
 negateValues off
@@ -348,7 +348,7 @@ track a_48_h_RV
 parent a_48_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-48hpi-KF297339.1-SIC-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-48hpi-KF297339.1-SIC-RV.bw
 longLabel a_48_h_RV
 shortLabel a_48_h_RV
 negateValues on
@@ -373,7 +373,7 @@ track a_48_h_Flavo_FW
 parent a_48_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-48hpi-Flavo-KF297339.1-SIC-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-48hpi-Flavo-KF297339.1-SIC-FW.bw
 longLabel a_48_h_Flavo_FW
 shortLabel a_48_h_Flavo_FW
 negateValues off
@@ -387,7 +387,7 @@ track a_48_h_Flavo_RV
 parent a_48_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-48hpi-Flavo-KF297339.1-SIC-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-48hpi-Flavo-KF297339.1-SIC-RV.bw
 longLabel a_48_h_Flavo_RV
 shortLabel a_48_h_Flavo_RV
 negateValues on
@@ -412,7 +412,7 @@ track a_72_h_FW
 parent a_72_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-SIC-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-SIC-FW.bw
 longLabel a_72_h_FW
 shortLabel a_72_h_FW
 negateValues off
@@ -426,7 +426,7 @@ track a_72_h_RV
 parent a_72_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-SIC-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-SIC-RV.bw
 longLabel a_72_h_RV
 shortLabel a_72_h_RV
 negateValues on
@@ -451,7 +451,7 @@ track a_72_h_Flavo_FW
 parent a_72_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-SIC-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-SIC-FW.bw
 longLabel a_72_h_Flavo_FW
 shortLabel a_72_h_Flavo_FW
 negateValues off
@@ -465,7 +465,7 @@ track a_72_h_Flavo_RV
 parent a_72_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-SIC-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-SIC-RV.bw
 longLabel a_72_h_Flavo_RV
 shortLabel a_72_h_Flavo_RV
 negateValues on
@@ -490,7 +490,7 @@ track a_72_h_PFA_FW
 parent a_72_h_PFA on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-SIC-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-SIC-FW.bw
 longLabel a_72_h_PFA_FW
 shortLabel a_72_h_PFA_FW
 negateValues off
@@ -504,7 +504,7 @@ track a_72_h_PFA_RV
 parent a_72_h_PFA on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-SIC-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-SIC-RV.bw
 longLabel a_72_h_PFA_RV
 shortLabel a_72_h_PFA_RV
 negateValues on
@@ -529,7 +529,7 @@ track a_72_h_Flavo_PFA_FW
 parent a_72_h_Flavo_PFA on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-PFA-KF297339.1-SIC-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-PFA-KF297339.1-SIC-FW.bw
 longLabel a_72_h_Flavo_PFA_FW
 shortLabel a_72_h_Flavo_PFA_FW
 negateValues off
@@ -543,7 +543,7 @@ track a_72_h_Flavo_PFA_RV
 parent a_72_h_Flavo_PFA on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-PFA-KF297339.1-SIC-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-PFA-KF297339.1-SIC-RV.bw
 longLabel a_72_h_Flavo_PFA_RV
 shortLabel a_72_h_Flavo_PFA_h_RV
 negateValues on
@@ -568,7 +568,7 @@ track IE2F_No_dTag_Exp1_FW
 parent IE2F_No_dTag_Exp1 on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-FW.bw
 longLabel IE2F_No_dTag_Exp1_FW
 shortLabel IE2F_No_dTag_Exp1_FW
 negateValues off
@@ -582,7 +582,7 @@ track IE2F_No_dTag_Exp1_RV
 parent IE2F_No_dTag_Exp1 on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-RV.bw
 longLabel IE2F_No_dTag_Exp1_RV
 shortLabel IE2F_No_dTag_Exp1_RV
 negateValues on
@@ -607,7 +607,7 @@ track IE2F_6h_dTag_Exp1_FW
 parent IE2F_6h_dTag_Exp1 on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp1-KF297339.1-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp1-KF297339.1-FW.bw
 longLabel IE2F_6h_dTag_Exp1_FW
 shortLabel IE2F_6h_dTag_Exp1_FW
 negateValues off
@@ -621,7 +621,7 @@ track IE2F_6h_dTag_Exp1_RV
 parent IE2F_6h_dTag_Exp1 on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp1-KF297339.1-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp1-KF297339.1-RV.bw
 longLabel IE2F_6h_dTag_Exp1_RV
 shortLabel IE2F_6h_dTag_Exp1_RV
 negateValues on
@@ -646,7 +646,7 @@ track IE2F_No_dTag_Exp2_FW
 parent IE2F_No_dTag_Exp2 on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-FW.bw
 longLabel IE2F_No_dTag_Exp2_FW
 shortLabel IE2F_No_dTag_Exp2_FW
 negateValues off
@@ -660,7 +660,7 @@ track IE2F_No_dTag_Exp2_RV
 parent IE2F_No_dTag_Exp2 on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-RV.bw
 longLabel IE2F_No_dTag_Exp2_RV
 shortLabel IE2F_No_dTag_Exp2_RV
 negateValues on
@@ -685,7 +685,7 @@ track IE2F_6h_dTag_Exp2_FW
 parent IE2F_6h_dTag_Exp2 on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-FW.bw
 longLabel IE2F_6h_dTag_Exp2_FW
 shortLabel IE2F_6h_dTag_Exp2_FW
 negateValues off
@@ -699,7 +699,7 @@ track IE2F_6h_dTag_Exp2_RV
 parent IE2F_6h_dTag_Exp2 on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-RV.bw
 longLabel IE2F_6h_dTag_Exp2_RV
 shortLabel IE2F_6h_dTag_Exp2_RV
 negateValues on
@@ -724,7 +724,7 @@ track IE2F_6h_PFA_Exp2_FW
 parent IE2F_6h_PFA_Exp2 on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-FW.bw
 longLabel IE2F_6h_PFA_Exp2_FW
 shortLabel IE2F_6h_PFA_Exp2_FW
 negateValues off
@@ -738,7 +738,7 @@ track IE2F_6h_PFA_Exp2_RV
 parent IE2F_6h_PFA_Exp2 on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-RV.bw
 longLabel IE2F_6h_PFA_Exp2_RV
 shortLabel IE2F_6h_PFA_Exp2_RV
 negateValues on
@@ -763,7 +763,7 @@ track IE2F_6h_PFA_dTag_Exp2_FW
 parent IE2F_6h_PFA_dTag_Exp2 on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-dTag-Exp2-KF297339.1-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-dTag-Exp2-KF297339.1-FW.bw
 longLabel IE2F_6h_PFA_dTag_Exp2_FW
 shortLabel IE2F_6h_PFA_dTag_Exp2_FW
 negateValues off
@@ -777,7 +777,7 @@ track IE2F_6h_PFA_dTag_Exp2_RV
 parent IE2F_6h_PFA_dTag_Exp2 on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-dTag-Exp2-KF297339.1-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-dTag-Exp2-KF297339.1-RV.bw
 longLabel IE2F_6h_PFA_dTag_Exp2_RV
 shortLabel IE2F_6h_PFA_dTag_Exp2_RV
 negateValues on
@@ -802,7 +802,7 @@ track IE2F_No_dTag_Exp2_Flavo_FW
 parent IE2F_No_dTag_Exp2_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-Flavo-KF297339.1-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-Flavo-KF297339.1-FW.bw
 longLabel IE2F_No_dTag_Exp2_Flavo_FW
 shortLabel IE2F_No_dTag_Exp2_Flavo_FW
 negateValues off
@@ -816,7 +816,7 @@ track IE2F_No_dTag_Exp2_Flavo_RV
 parent IE2F_No_dTag_Exp2_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-Flavo-KF297339.1-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-Flavo-KF297339.1-RV.bw
 longLabel IE2F_No_dTag_Exp2_Flavo_RV
 shortLabel IE2F_No_dTag_Exp2_Flavo_RV
 negateValues on
@@ -841,7 +841,7 @@ track IE2F_6h_dTag_Exp2_Flavo_FW
 parent IE2F_6h_dTag_Exp2_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-Flavo-combined-KF297339.1-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-Flavo-combined-KF297339.1-FW.bw
 longLabel IE2F_6h_dTag_Exp2_Flavo_FW
 shortLabel IE2F_6h_dTag_Exp2_Flavo_FW
 negateValues off
@@ -855,7 +855,7 @@ track IE2F_6h_dTag_Exp2_Flavo_RV
 parent IE2F_6h_dTag_Exp2_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-Flavo-combined-KF297339.1-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-Flavo-combined-KF297339.1-RV.bw
 longLabel IE2F_6h_dTag_Exp2_Flavo_RV
 shortLabel IE2F_6h_dTag_Exp2_Flavo_RV
 negateValues on
@@ -880,7 +880,7 @@ track IE2F_No_dTag_Exp2_norm_FW
 parent IE2F_No_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-Norm-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-Norm-FW.bw
 longLabel IE2F_No_dTag_Exp2_Norm_FW
 shortLabel IE2F_No_dTag_Exp2_Norm_FW
 negateValues off
@@ -894,7 +894,7 @@ track IE2F_No_dTag_Exp2_Norm_RV
 parent IE2F_No_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-Norm-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-Norm-RV.bw
 longLabel IE2F_No_dTag_Exp2_Norm_RV
 shortLabel IE2F_No_dTag_Exp2_Norm_RV
 negateValues on
@@ -920,7 +920,7 @@ track IE2F_6h_dTag_Exp2_Norm_FW
 parent IE2F_6h_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-Norm-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-Norm-FW.bw
 longLabel IE2F_6h_dTag_Exp2_Norm_FW
 shortLabel IE2F_6h_dTag_Exp2_Norm_FW
 negateValues off
@@ -934,7 +934,7 @@ track IE2F_6h_dTag_Exp2_Norm_RV
 parent IE2F_6h_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-Norm-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-Norm-RV.bw
 longLabel IE2F_6h_dTag_Exp2_Norm_RV
 shortLabel IE2F_6h_dTag_Exp2_Norm_RV
 negateValues on
@@ -959,7 +959,7 @@ track IE2F_6h_PFA_Exp2_Norm_FW
 parent IE2F_6h_PFA_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-Norm-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-Norm-FW.bw
 longLabel IE2F_6h_PFA_Exp2_Norm_FW
 shortLabel IE2F_6h_PFA_Exp2_Norm_FW
 negateValues off
@@ -973,7 +973,7 @@ track IE2F_6h_PFA_Exp2_Norm_RV
 parent IE2F_6h_PFA_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-Norm-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-Norm-RV.bw
 longLabel IE2F_6h_PFA_Exp2_Norm_RV
 shortLabel IE2F_6h_PFA_Exp2_Norm_RV
 negateValues on
@@ -998,7 +998,7 @@ track IE2F_6h_PFA_dTag_Exp2_Norm_FW
 parent IE2F_6h_PFA_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-dTag-Exp2-KF297339.1-Norm-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-dTag-Exp2-KF297339.1-Norm-FW.bw
 longLabel IE2F_6h_PFA_dTag_Exp2_Norm_FW
 shortLabel IE2F_6h_PFA_dTag_Exp2_Norm_FW
 negateValues off
@@ -1012,7 +1012,7 @@ track IE2F_6h_PFA_dTag_Exp2_Norm_RV
 parent IE2F_6h_PFA_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-dTag-Exp2-KF297339.1-Norm-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-dTag-Exp2-KF297339.1-Norm-RV.bw
 longLabel IE2F_6h_PFA_dTag_Exp2_Norm_RV
 shortLabel IE2F_6h_PFA_dTag_Exp2_Norm_RV
 negateValues on
@@ -1037,7 +1037,7 @@ track IE2F_No_dTag_Exp2_Flavo_Norm_FW
 parent IE2F_No_dTag_Exp2_Flavo_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-Flavo-KF297339.1-Norm-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-Flavo-KF297339.1-Norm-FW.bw
 longLabel IE2F_No_dTag_Exp2_Flavo_Norm_FW
 shortLabel IE2F_No_dTag_Exp2_Flavo_Norm_FW
 negateValues off
@@ -1051,7 +1051,7 @@ track IE2F_No_dTag_Exp2_Flavo_Norm_RV
 parent IE2F_No_dTag_Exp2_Flavo_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-Flavo-KF297339.1-Norm-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-Flavo-KF297339.1-Norm-RV.bw
 longLabel IE2F_No_dTag_Exp2_Flavo_Norm_RV
 shortLabel IE2F_No_dTag_Exp2_Flavo_Norm_RV
 negateValues on
@@ -1078,7 +1078,7 @@ track IE2F_6h_dTag_Exp2_Flavo_Norm_FW
 parent IE2F_6h_dTag_Exp2_Flavo_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-Flavo-KF297339.1-Norm-FW.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-Flavo-KF297339.1-Norm-FW.bw
 longLabel IE2F_6h_dTag_Exp2_Flavo_Norm_FW
 shortLabel IE2F_6h_dTag_Exp2_Flavo_Norm_FW
 negateValues off
@@ -1092,7 +1092,7 @@ track IE2F_6h_dTag_Exp2_Flavo_Norm_RV
 parent IE2F_6h_dTag_Exp2_Flavo_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-Flavo-KF297339.1-Norm-RV.bw
+bigDataUrl https://raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-Flavo-KF297339.1-Norm-RV.bw
 longLabel IE2F_6h_dTag_Exp2_Flavo_Norm_RV
 shortLabel IE2F_6h_dTag_Exp2_Flavo_Norm_RV
 negateValues on
