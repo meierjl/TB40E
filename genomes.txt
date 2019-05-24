@@ -7,4 +7,4 @@ organism Human cytomegalovirus
 defaultPos KF297339.1:1-237683
 orderKey 4800
 scientificName Human cytomegalovirus
-htmlPath https://www.ncbi.nlm.nih.gov/nuccore/KF297339.1
+
