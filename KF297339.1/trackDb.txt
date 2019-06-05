@@ -1102,3 +1102,44 @@ altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
+
+
+##########
+
+track Merlin_72h_mRNA_Seq
+compositeTrack on
+type bigWig 0 1000
+group notPublic
+priority 9.5
+visibility full
+shortLabel Merlin_72h_mRNA_Seq
+longLabel Merlin_72h_mRNA_Seq
+
+track Merlin_72h_mRNA_Seq_F
+parent Merlin_72h_mRNA_Seq
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/SRR592965/Merlin-72h-FW.bw
+longLabel Merlin_72h_mRNA_Seq_FW
+shortLabel Merlin_72h_mRNA_Seq_FW
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track Merlin_72h_mRNA_Seq_RV
+parent IE2F_6h_dTag_Exp2_Flavo_Norm on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/SRR592965/Merlin-72h-RV.bw
+longLabel Merlin_72h_mRNA_Seq_RV
+shortLabel Merlin_72h_mRNA_Seq_RV
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
