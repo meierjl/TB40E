@@ -1,4 +1,3 @@
-
 track KF297339.1
 type bigGenePred
 group map
@@ -10,607 +9,22 @@ visibility pack
 
 ##########
 
-track a_0_h
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel a_0_h
-longLabel a_0_h
-
-track a_0_h_FW
-parent a_0_h on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-KF297339.1-SIC-FW.bw
-longLabel a_0_h_FW
-shortLabel a_0_h_FW
-negateValues off
-color 113,35,124
-altColor 113,35,124
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track a_0_h_RV
-parent a_0_h on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-KF297339.1-SIC-RV.bw
-longLabel a_0_h_RV
-shortLabel a_0_h_RV
-negateValues on
-color 113,35,124
-altColor 113,35,124
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
-track a_0_h_Flavo
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel a_0_h_Flavo
-longLabel a_0_h_Flavo
-
-track a_0_h_Flavo_FW
-parent a_0_h_Flavo on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-Flavo-KF297339.1-SIC-FW.bw
-longLabel a_0_h_Flavo_FW
-shortLabel a_0_h_Flavo_FW
-negateValues off
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track a_0_h_Flavo_RV
-parent a_0_h_Flavo on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-Flavo-KF297339.1-SIC-RV.bw
-longLabel a_0_h_Flavo_RV
-shortLabel a_0_h_Flavo_RV
-negateValues on
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
-track a_4_h
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel a_4_h
-longLabel a_4_h
-
-track a_4_h_FW
-parent a_4_h on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-4hpi-KF297339.1-SIC-FW.bw
-longLabel a_4_h_FW
-shortLabel a_4_h_FW
-negateValues off
-color 113,35,124
-altColor 113,35,124
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track a_4_h_RV
-parent a_4_h on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-4hpi-KF297339.1-SIC-RV.bw
-longLabel a_4_h_RV
-shortLabel a_4_h_RV
-negateValues on
-color 113,35,124
-altColor 113,35,124
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
-track a_4_h_Flavo
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel a_4_h_Flavo
-longLabel a_4_h_Flavo
-
-track a_4_h_Flavo_FW
-parent a_4_h_Flavo on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-4hpi-Flavo-KF297339.1-SIC-FW.bw
-longLabel a_4_h_Flavo_FW
-shortLabel a_4_h_Flavo_FW
-negateValues off
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track a_4_h_Flavo_RV
-parent a_4_h_Flavo on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-4hpi-Flavo-KF297339.1-SIC-RV.bw
-longLabel a_4_h_Flavo_RV
-shortLabel a_4_h_Flavo_RV
-negateValues on
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
-track a_12_h
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel a_12_h
-longLabel a_12_h
-
-track a_12_h_FW
-parent a_12_h on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-12hpi-KF297339.1-SIC-FW.bw
-longLabel a_12_h_FW
-shortLabel a_12_h_FW
-negateValues off
-color 113,35,124
-altColor 113,35,124
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track a_12_h_RV
-parent a_12_h on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-12hpi-KF297339.1-SIC-RV.bw
-longLabel a_12_h_RV
-shortLabel a_12_h_RV
-negateValues on
-color 113,35,124
-altColor 113,35,124
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
-track a_12_h_Flavo
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel a_12_h_Flavo
-longLabel a_12_h_Flavo
-
-track a_12_h_Flavo_FW
-parent a_12_h_Flavo on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-12hpi-Flavo-KF297339.1-SIC-FW.bw
-longLabel a_12_h_Flavo_FW
-shortLabel a_12_h_Flavo_FW
-negateValues off
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track a_12_h_Flavo_RV
-parent a_12_h_Flavo on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-12hpi-Flavo-KF297339.1-SIC-RV.bw
-longLabel a_12_h_Flavo_RV
-shortLabel a_12_h_Flavo_RV
-negateValues on
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
-track a_24_h
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel a_24_h
-longLabel a_24_h
-
-track a_24_h_FW
-parent a_24_h on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-SIC-FW.bw
-longLabel a_24_h_FW
-shortLabel a_24_h_FW
-negateValues off
-color 113,35,124
-altColor 113,35,124
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track a_24_h_RV
-parent a_24_h on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-SIC-RV.bw
-longLabel a_24_h_RV
-shortLabel a_24_h_RV
-negateValues on
-color 113,35,124
-altColor 113,35,124
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
-track a_24_h_Flavo
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel a_24_h_Flavo
-longLabel a_24_h_Flavo
-
-track a_24_h_Flavo_FW
-parent a_24_h_Flavo on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-SIC-FW.bw
-longLabel a_24_h_Flavo_FW
-shortLabel a_24_h_Flavo_FW
-negateValues off
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track a_24_h_Flavo_RV
-parent a_24_h_Flavo on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-SIC-RV.bw
-longLabel a_24_h_Flavo_RV
-shortLabel a_24_h_Flavo_RV
-negateValues on
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
-track a_48_h
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel a_48_h
-longLabel a_48_h
-
-track a_48_h_FW
-parent a_48_h on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-48hpi-KF297339.1-SIC-FW.bw
-longLabel a_48_h_FW
-shortLabel a_48_h_FW
-negateValues off
-color 113,35,124
-altColor 113,35,124
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track a_48_h_RV
-parent a_48_h on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-48hpi-KF297339.1-SIC-RV.bw
-longLabel a_48_h_RV
-shortLabel a_48_h_RV
-negateValues on
-color 113,35,124
-altColor 113,35,124
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
-track a_48_h_Flavo
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel a_48_h_Flavo
-longLabel a_48_h_Flavo
-
-track a_48_h_Flavo_FW
-parent a_48_h_Flavo on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-48hpi-Flavo-KF297339.1-SIC-FW.bw
-longLabel a_48_h_Flavo_FW
-shortLabel a_48_h_Flavo_FW
-negateValues off
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track a_48_h_Flavo_RV
-parent a_48_h_Flavo on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-48hpi-Flavo-KF297339.1-SIC-RV.bw
-longLabel a_48_h_Flavo_RV
-shortLabel a_48_h_Flavo_RV
-negateValues on
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
-track a_72_h
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel a_72_h
-longLabel a_72_h
-
-track a_72_h_FW
-parent a_72_h on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-SIC-FW.bw
-longLabel a_72_h_FW
-shortLabel a_72_h_FW
-negateValues off
-color 113,35,124
-altColor 113,35,124
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track a_72_h_RV
-parent a_72_h on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-SIC-RV.bw
-longLabel a_72_h_RV
-shortLabel a_72_h_RV
-negateValues on
-color 113,35,124
-altColor 113,35,124
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
-track a_72_h_Flavo
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel a_72_h_Flavo
-longLabel a_72_h_Flavo
-
-track a_72_h_Flavo_FW
-parent a_72_h_Flavo on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-SIC-FW.bw
-longLabel a_72_h_Flavo_FW
-shortLabel a_72_h_Flavo_FW
-negateValues off
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track a_72_h_Flavo_RV
-parent a_72_h_Flavo on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-SIC-RV.bw
-longLabel a_72_h_Flavo_RV
-shortLabel a_72_h_Flavo_RV
-negateValues on
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
-track a_72_h_PFA
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel a_72_h_PFA
-longLabel a_72_h_PFA
-
-track a_72_h_PFA_FW
-parent a_72_h_PFA on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-SIC-FW.bw
-longLabel a_72_h_PFA_FW
-shortLabel a_72_h_PFA_FW
-negateValues off
-color 0,0,255
-altColor 0,0,255
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track a_72_h_PFA_RV
-parent a_72_h_PFA on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-SIC-RV.bw
-longLabel a_72_h_PFA_RV
-shortLabel a_72_h_PFA_RV
-negateValues on
-color 0,0,255
-altColor 0,0,255
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
-track a_72_h_Flavo_PFA
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel a_72_h_Flavo_PFA
-longLabel a_72_h_Flavo_PFA
-
-track a_72_h_Flavo_PFA_FW
-parent a_72_h_Flavo_PFA on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-PFA-KF297339.1-SIC-FW.bw
-longLabel a_72_h_Flavo_PFA_FW
-shortLabel a_72_h_Flavo_PFA_FW
-negateValues off
-color 0,0,255
-altColor 0,0,255
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track a_72_h_Flavo_PFA_RV
-parent a_72_h_Flavo_PFA on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-PFA-KF297339.1-SIC-RV.bw
-longLabel a_72_h_Flavo_PFA_RV
-shortLabel a_72_h_Flavo_PFA_h_RV
-negateValues on
-color 0,0,255
-altColor 0,0,255
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
-track IE2F_No_dTag_Exp1
-compositeTrack on
-type bigWig 0 1000
-group notPublic
-priority 9.5
-visibility full
-shortLabel IE2F_No_dTag_Exp1
-longLabel IE2F_No_dTag_Exp1
-
-track IE2F_No_dTag_Exp1_FW
-parent IE2F_No_dTag_Exp1 on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-FW.bw
-longLabel IE2F_No_dTag_Exp1_FW
-shortLabel IE2F_No_dTag_Exp1_FW
-negateValues off
-color 0,0,255
-altColor 0,0,255
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-track IE2F_No_dTag_Exp1_RV
-parent IE2F_No_dTag_Exp1 on
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-RV.bw
-longLabel IE2F_No_dTag_Exp1_RV
-shortLabel IE2F_No_dTag_Exp1_RV
-negateValues on
-color 0,0,255
-altColor 0,0,255
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
-##########
-
 track IE2F_6h_dTag_Exp1
 compositeTrack on
 type bigWig 0 1000
 group notPublic
-priority 9.5
+priority 1
 visibility full
-shortLabel IE2F_6h_dTag_Exp1
-longLabel IE2F_6h_dTag_Exp1
+shortLabel 72h TB40-IE2-FKBP dFK Rep1
+longLabel PRO-Seq in HFF infected with TB40-IE2 FKBP for 72 h and with dFK for the last 6 hours of infection
 
 track IE2F_6h_dTag_Exp1_FW
 parent IE2F_6h_dTag_Exp1 on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp1-KF297339.1-FW.bw
-longLabel IE2F_6h_dTag_Exp1_FW
-shortLabel IE2F_6h_dTag_Exp1_FW
+longLabel Forward strand PRO-Seq in HFF infected with TB40-IE2 FKBP for 72 h and with dFK for the last 6 hours of infection
+shortLabel F 72h TB40-IE2-FKBP dFK R1
 negateValues off
 color 0,0,255
 altColor 0,0,255
@@ -623,8 +37,8 @@ parent IE2F_6h_dTag_Exp1 on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp1-KF297339.1-RV.bw
-longLabel IE2F_6h_dTag_Exp1_RV
-shortLabel IE2F_6h_dTag_Exp1_RV
+shortLabel R 72h TB40-IE2-FKBP dFK R1
+longLabel Reverse strand PRO-Seq in HFF infected with TB40-IE2 FKBP for 72 h and with dFK for the last 6 hours of infection
 negateValues on
 color 0,0,255
 altColor 0,0,255
@@ -637,8 +51,8 @@ maxHeightPixels 128:128:16
 track IE2F_No_dTag_Exp2
 compositeTrack on
 type bigWig 0 1000
-group notPublic
-priority 9.5
+group IE2-FKBP
+priority 2
 visibility full
 shortLabel IE2F_No_dTag_Exp2
 longLabel IE2F_No_dTag_Exp2
@@ -1062,8 +476,6 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 
- 
-
 ##########
 
 track IE2F_6h_dTag_Exp2_Flavo_Norm
@@ -1099,6 +511,123 @@ shortLabel IE2F_6h_dTag_Exp2_Flavo_Norm_RV
 negateValues on
 color 153,58,29
 altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
+
+track a_24_h
+compositeTrack on
+type bigWig 0 1000
+group notPublic
+priority 9.5
+visibility full
+shortLabel a_24_h
+longLabel a_24_h
+
+track a_24_h_FW
+parent a_24_h on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-SIC-FW.bw
+longLabel a_24_h_FW
+shortLabel a_24_h_FW
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track a_24_h_RV
+parent a_24_h on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-SIC-RV.bw
+longLabel a_24_h_RV
+shortLabel a_24_h_RV
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
+
+track a_72_h
+compositeTrack on
+type bigWig 0 1000
+group notPublic
+priority 9.5
+visibility full
+shortLabel a_72_h
+longLabel a_72_h
+
+track a_72_h_FW
+parent a_72_h on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-SIC-FW.bw
+longLabel a_72_h_FW
+shortLabel a_72_h_FW
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track a_72_h_RV
+parent a_72_h on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-SIC-RV.bw
+longLabel a_72_h_RV
+shortLabel a_72_h_RV
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
+
+track a_72_h_PFA
+compositeTrack on
+type bigWig 0 1000
+group notPublic
+priority 9.5
+visibility full
+shortLabel a_72_h_PFA
+longLabel a_72_h_PFA
+
+track a_72_h_PFA_FW
+parent a_72_h_PFA on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-SIC-FW.bw
+longLabel a_72_h_PFA_FW
+shortLabel a_72_h_PFA_FW
+negateValues off
+color 0,0,255
+altColor 0,0,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track a_72_h_PFA_RV
+parent a_72_h_PFA on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-SIC-RV.bw
+longLabel a_72_h_PFA_RV
+shortLabel a_72_h_PFA_RV
+negateValues on
+color 0,0,255
+altColor 0,0,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
