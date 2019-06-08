@@ -14,7 +14,7 @@ track IE2F_No_dTag_Exp2_Norm
 compositeTrack on
 type bigWig 0 1000
 group IE2-FKBP
-priority 9.5
+priority 1
 visibility full
 shortLabel 72h TB40-IE2-FKBP Rep 2
 longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP
@@ -54,7 +54,7 @@ track IE2F_6h_dTag_Exp2_Norm
 compositeTrack on
 type bigWig 0 1000
 group IE2-FKBP
-priority 9.5
+priority 2
 visibility full
 shortLabel 72h TB40-IE2-FKBP dTag Rep 2
 longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection
