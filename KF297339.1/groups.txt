@@ -9,7 +9,7 @@ priority 2
 defaultIsClosed 0
 
 name Merlin_mRNA_seq
-label Mapping
+label mRNA-Seq
 priority 3
 defaultIsClosed 0
 
