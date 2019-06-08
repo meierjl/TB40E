@@ -12,3 +12,8 @@ name map
 label Mapping
 priority 3
 defaultIsClosed 0
+
+name Merlin_mRNA_Seq
+label Mapping
+priority 3
+defaultIsClosed 0
