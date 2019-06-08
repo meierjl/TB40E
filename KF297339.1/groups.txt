@@ -1,9 +1,14 @@
-name cmvtimecourse
+name IE2-FKBP
 label PRO-Seq
 priority 1
 defaultIsClosed 0
 
+name cmvtimecourse
+label PRO-Seq
+priority 2
+defaultIsClosed 0
+
 name map
 label Mapping
-priority 1
+priority 3
 defaultIsClosed 0
