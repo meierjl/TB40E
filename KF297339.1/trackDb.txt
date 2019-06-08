@@ -65,7 +65,7 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection
-shortLabel F 72h TB40-IE2-FKBP
+shortLabel F 72h TB40-IE2-FKBP dTag
 negateValues off
 color 113, 35, 124
 altColor 113, 35, 124
@@ -79,7 +79,7 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection
-shortLabel R 72h TB40-IE2-FKBP
+shortLabel R 72h TB40-IE2-FKBP dTag
 negateValues on
 color 113, 35, 124
 altColor 113, 35, 124
