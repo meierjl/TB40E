@@ -91,7 +91,7 @@ track IE2F_No_dTag_Exp2_Norm
 compositeTrack on
 type bigWig 0 1000
 group IE2-FKBP
-priority 1
+priority 3
 visibility full
 shortLabel 72h TB40-IE2-FKBP Rep 2
 longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP
@@ -130,7 +130,7 @@ track IE2F_6h_dTag_Exp2_Norm
 compositeTrack on
 type bigWig 0 1000
 group IE2-FKBP
-priority 2
+priority 4
 visibility full
 shortLabel 72h TB40-IE2-FKBP dTag Rep 2
 longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection Rep 2
@@ -169,7 +169,7 @@ track IE2F_No_dTag_Exp2_Flavo_Norm
 compositeTrack on
 type bigWig 0 1000
 group IE2-FKBP
-priority 3
+priority 5
 visibility full
 shortLabel 72h TB40-IE2-FKBP Flavo
 longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with Flavo for the last hour of infection
@@ -208,7 +208,7 @@ track IE2F_6h_dTag_Exp2_Flavo_Norm
 compositeTrack on
 type bigWig 0 1000
 group IE2-FKBP
-priority 4
+priority 6
 visibility full
 shortLabel 72h TB40-IE2-FKBP Flavo dTag
 longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with Flavo for the last hour of infection and dTag for the last 6 hours of infection
@@ -247,7 +247,7 @@ track IE2F_6h_PFA_Exp2_Norm
 compositeTrack on
 type bigWig 0 1000
 group IE2-FKBP
-priority 5
+priority 7
 visibility full
 shortLabel 72h TB40-IE2-FKBP PFA
 longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with PFA for the last 6 hours of infection
@@ -286,7 +286,7 @@ track IE2F_6h_PFA_dTag_Exp2_Norm
 compositeTrack on
 type bigWig 0 1000
 group IE2-FKBP
-priority 6
+priority 8
 visibility full
 shortLabel 72h TB40-IE2-FKBP PFA dTag
 longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with PFA and dTag for the last 6 hours of infection
