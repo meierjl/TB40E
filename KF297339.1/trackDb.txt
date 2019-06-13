@@ -7,7 +7,84 @@ longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
 shortLabel GenBank KF297339.1
 visibility pack
 
+###########
 
+track IE2F_No_dTag_Exp1_Norm
+compositeTrack on
+type bigWig 0 1000
+group IE2-FKBP
+priority 1
+visibility full
+shortLabel 72h TB40-IE2-FKBP Rep 1
+longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP
+
+track IE2F_No_dTag_Exp1_norm_FW
+parent IE2F_No_dTag_Exp1_Norm on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-SIC-FW.bw
+longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP Rep 1
+shortLabel F 72h TB40-IE2-FKBP Rep 1
+negateValues off
+color 113, 35, 124
+altColor 113, 35, 124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track IE2F_No_dTag_Exp1_Norm_RV
+parent IE2F_No_dTag_Exp1_Norm on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-SIC-RV.bw
+longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP Rep 1
+shortLabel R 72h TB40-IE2-FKBP Rep 1
+negateValues on
+color 113, 35, 124
+altColor 113, 35, 124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+##########
+
+track IE2F_6h_dTag_Exp1_Norm
+compositeTrack on
+type bigWig 0 1000
+group IE2-FKBP
+priority 2
+visibility full
+shortLabel 72h TB40-IE2-FKBP dTag Rep 1
+longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection
+
+track IE2F_6h_dTag_Exp1_Norm_FW
+parent IE2F_6h_dTag_Exp1_Norm on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-SIC-FW.bw
+longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection Rep 1
+shortLabel F 72h TB40-IE2-FKBP dTag Rep 1
+negateValues off
+color 113, 35, 124
+altColor 113, 35, 124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track IE2F_6h_dTag_Exp1_Norm_RV
+parent IE2F_6h_dTag_Exp1_Norm on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-SIC-RV.bw
+longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection Rep 1
+shortLabel R 72h TB40-IE2-FKBP dTag Rep 1
+negateValues on
+color 113, 35, 124
+altColor 113, 35, 124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
 ###########
 
 track IE2F_No_dTag_Exp2_Norm
@@ -24,8 +101,8 @@ parent IE2F_No_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-Norm-FW.bw
-longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP
-shortLabel F 72h TB40-IE2-FKBP
+longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP Rep 2
+shortLabel F 72h TB40-IE2-FKBP Rep 2
 negateValues off
 color 113, 35, 124
 altColor 113, 35, 124
@@ -38,15 +115,14 @@ parent IE2F_No_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-Norm-RV.bw
-longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP
-shortLabel R 72h TB40-IE2-FKBP
+longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP Rep 2
+shortLabel R 72h TB40-IE2-FKBP Rep 2
 negateValues on
 color 113, 35, 124
 altColor 113, 35, 124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
-
 
 ##########
 
@@ -57,15 +133,15 @@ group IE2-FKBP
 priority 2
 visibility full
 shortLabel 72h TB40-IE2-FKBP dTag Rep 2
-longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection
+longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection Rep 2
 
 track IE2F_6h_dTag_Exp2_Norm_FW
 parent IE2F_6h_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-Norm-FW.bw
-longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection
-shortLabel F 72h TB40-IE2-FKBP dTag
+longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection Rep 2
+shortLabel F 72h TB40-IE2-FKBP dTag Rep 2
 negateValues off
 color 113, 35, 124
 altColor 113, 35, 124
@@ -78,8 +154,8 @@ parent IE2F_6h_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-Norm-RV.bw
-longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection
-shortLabel R 72h TB40-IE2-FKBP dTag
+longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection Rep 2
+shortLabel R 72h TB40-IE2-FKBP dTag Rep 2
 negateValues on
 color 113, 35, 124
 altColor 113, 35, 124
