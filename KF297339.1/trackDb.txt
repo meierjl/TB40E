@@ -15,7 +15,7 @@ type bigWig 0 1000
 group IE2-FKBP
 priority 1
 visibility full
-shortLabel 72h TB40-IE2-FKBP Rep 666
+shortLabel 72h TB40-IE2-FKBP Rep 1
 longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP
 
 track IE2F_No_dTag_Exp1_norm_FW
@@ -24,7 +24,7 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-SIC-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP Rep 1
-shortLabel F 72h TB40-IE2-FKBP Rep 666
+shortLabel F 72h TB40-IE2-FKBP Rep 1
 negateValues off
 color 113, 35, 124
 altColor 113, 35, 124
@@ -339,8 +339,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/mast
 longLabel Forward strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP 
 shortLabel F 24h TB40
 negateValues off
-color 0,0,255
-altColor 0,0,255
+color 113, 35, 124
+altColor 113, 35, 124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -353,8 +353,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/mast
 longLabel Reverse strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP 
 shortLabel R 24h TB40
 negateValues on
-color 0,0,255
-altColor 0,0,255
+color 113, 35, 124
+altColor 113, 35, 124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
