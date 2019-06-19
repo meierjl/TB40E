@@ -15,7 +15,7 @@ type bigWig 0 1000
 group IE2-FKBP
 priority 1
 visibility full
-shortLabel 72h TB40-IE2-FKBP Rep 1
+shortLabel 72h TB40-IE2-FKBP Rep 666
 longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP
 
 track IE2F_No_dTag_Exp1_norm_FW
