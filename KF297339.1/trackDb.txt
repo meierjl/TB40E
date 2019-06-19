@@ -378,8 +378,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/mast
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40
 shortLabel F 72h TB40
 negateValues off
-color 0,0,255
-altColor 0,0,255
+color 113, 35, 124
+altColor 113, 35, 124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -392,8 +392,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/mast
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40
 shortLabel R 72h TB40
 negateValues on
-color 0,0,255
-altColor 0,0,255
+color 113, 35, 124
+altColor 113, 35, 124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -417,8 +417,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/mast
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with PFA for the duration of the infection
 shortLabel F 72h TB40 PFA
 negateValues off
-color 0,0,255
-altColor 0,0,255
+color 113, 35, 124
+altColor 113, 35, 124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -431,8 +431,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/mast
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with PFA for the duration of the infection
 shortLabel R 72h TB40 PFA
 negateValues on
-color 0,0,255
-altColor 0,0,255
+color 113, 35, 124
+altColor 113, 35, 124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
