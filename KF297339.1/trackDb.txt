@@ -258,7 +258,6 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with PFA for the last 6 hours of infection
-
 shortLabel F 72h IE2F 6h PFA
 negateValues off
 color 34,139,34
