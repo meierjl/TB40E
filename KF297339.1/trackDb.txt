@@ -304,7 +304,6 @@ altColor 34,139,34
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
-
 track IE2F_6h_PFA_dTag_Exp2_Norm_RV
 parent IE2F_6h_PFA_dTag_Exp2_Norm on
 type bigWig 0 1000
@@ -339,8 +338,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/mast
 longLabel Forward strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP 
 shortLabel F Exp3 24h 
 negateValues off
-color 113, 35, 124
-altColor 113, 35, 124
+color 0, 0, 255
+altColor 0, 0, 255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -353,8 +352,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/mast
 longLabel Reverse strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP 
 shortLabel R Exp3 24h 
 negateValues on
-color 113, 35, 124
-altColor 113, 35, 124
+color 0, 0, 255
+altColor 0, 0, 255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
