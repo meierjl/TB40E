@@ -46,7 +46,6 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 
-
 ##########
 
 track IE2F_6h_dTag_Exp1_Norm
@@ -85,6 +84,7 @@ altColor 113, 35, 124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
+
 ###########
 
 track IE2F_No_dTag_Exp2_Norm
@@ -318,7 +318,6 @@ altColor 34,139,34
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
-
 
 ##########
 
