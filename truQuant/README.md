@@ -7,10 +7,10 @@ truQuant annotation can be run using python3 from the command line using the fol
 python3 truQuant_annotation.py –t [TSR file.bed] –s [Sequencing file.bed] –a [Annotation file ] [optional parameters]
 ```
 
-### Optional parameters:
+Optional parameters:
 ```
 -n [int] = TSR window size
--e [int] = Annotation Extension
+-e [int] = Annotation extension
 -b [int] = Blacklist extension amount
 -p [int 0-1] = Minimum percentage for blacklisting TSRs
 ```
