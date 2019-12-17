@@ -338,14 +338,14 @@ type bigWig 0 1000
 group cmvtimecourse
 priority 1
 visibility full
-shortLabel 24h TB40
+shortLabel 24h TB40 Flavo
 longLabel PRO-Seq of HFF infected for 24 hours with TB40
 
 track a_24_h_FW
 parent a_24_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-SIC-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP 
 shortLabel F Exp3 24h 
 negateValues off
@@ -359,9 +359,48 @@ track a_24_h_RV
 parent a_24_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-SIC-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP 
 shortLabel R Exp3 24h 
+negateValues on
+color 0, 0, 255
+altColor 0, 0, 255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
+
+track a_24_h_Flavo
+compositeTrack on
+type bigWig 0 1000
+group cmvtimecourse
+priority 1
+visibility full
+shortLabel 24h TB40
+longLabel PRO-Seq of HFF infected for 24 hours with TB40 and treated with Flavo during the last hour of infection
+
+track a_24_h__Flavo_FW
+parent a_24__Flavo_h on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-FW.bw
+longLabel Forward strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP and treated with Flavo during the last hour of infection
+shortLabel F Exp3 24h Flavo
+negateValues off
+color 0, 0, 255
+altColor 0, 0, 255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track a_24_h_Flavo_RV
+parent a_24_h_Favo on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-RV.bw
+longLabel Reverse strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP and treated with Flavo during the last hour of infection
+shortLabel R Exp3 24h Flavo
 negateValues on
 color 0, 0, 255
 altColor 0, 0, 255
@@ -384,7 +423,7 @@ track a_72_h_FW
 parent a_72_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-SIC-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40
 shortLabel F Exp3 72h
 negateValues off
@@ -398,9 +437,48 @@ track a_72_h_RV
 parent a_72_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-SIC-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40
 shortLabel R Exp3 72h 
+negateValues on
+color 113, 35, 124
+altColor 113, 35, 124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
+
+track a_72_h_Flavo
+compositeTrack on
+type bigWig 0 1000
+group cmvtimecourse
+priority 2
+visibility full
+shortLabel 72h TB40 Flavo
+longLabel PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
+
+track a_72_h_Flavo_FW
+parent a_72_h_Flavo on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-FW.bw
+longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
+shortLabel F Exp3 72h Flavo
+negateValues off
+color 113, 35, 124
+altColor 113, 35, 124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track a_72_h_Flavo_RV
+parent a_72_h_Flavo on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-RV.bw
+longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
+shortLabel R Exp3 72h Flavo
 negateValues on
 color 113, 35, 124
 altColor 113, 35, 124
@@ -423,7 +501,7 @@ track a_72_h_PFA_FW
 parent a_72_h_PFA on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-SIC-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with PFA for the duration of the infection
 shortLabel F Exp3 72h PFA
 negateValues off
@@ -437,9 +515,48 @@ track a_72_h_PFA_RV
 parent a_72_h_PFA on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-SIC-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with PFA for the duration of the infection
 shortLabel R Exp3 72h PFA
+negateValues on
+color 113, 35, 124
+altColor 113, 35, 124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
+
+track a_72_h_PFA_Flavo
+compositeTrack on
+type bigWig 0 1000
+group cmvtimecourse
+priority 3
+visibility full
+shortLabel a_72_h_PFA_Flavo
+longLabel PRO-Seq of HFF infected for 72 hours with TB40 and treated with PFA for the duration of the infection and with Flavo for the last hour of the infection
+
+track a_72_h_PFA_Flavo_FW
+parent a_72_h_PFA_Flavo on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-PFA-KF297339.1-Norm-FW.bw
+longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with PFA for the duration of the infection and with Flavo for the last hour of the infection
+shortLabel F Exp3 72h PFA Flavo
+negateValues off
+color 113, 35, 124
+altColor 113, 35, 124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track a_72_h_PFA_Flavo_RV
+parent a_72_h_PFA_Flavo on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-PFA-KF297339.1-Norm-RV.bw
+longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with PFA for the duration of the infection and with Flavo for the last hour of the infection
+shortLabel R Exp3 72h PFA Flavo
 negateValues on
 color 113, 35, 124
 altColor 113, 35, 124
