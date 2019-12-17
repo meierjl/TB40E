@@ -380,8 +380,8 @@ visibility full
 shortLabel 24h TB40
 longLabel PRO-Seq of HFF infected for 24 hours with TB40 and treated with Flavo during the last hour of infection
 
-track a_24_h__Flavo_FW
-parent a_24__Flavo_h on
+track a_24_h_Flavo_FW
+parent a_24_h_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-FW.bw
