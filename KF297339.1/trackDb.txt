@@ -395,7 +395,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 track a_24_h_Flavo_RV
-parent a_24_h_Favo on
+parent a_24_h_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-RV.bw
