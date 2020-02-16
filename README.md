@@ -1,6 +1,7 @@
 # hubs
 Hub for HCMV TB40-E, Li et. al.,  2020 
 trackHub_HCMV
+
 This is a curated selection of existing and new HCMV datasets for viewing in the UCSC Genome Browser.
 
 Usage:
@@ -8,7 +9,7 @@ Usage:
     First go to the UCSC Genome Browser.
     Then, navigate to My Data > Track Hubs.
     Select the My Hubs tab.
-    Finally, paste https://raw.githubusercontent.com/P-TEFb/trackHub_HCMV/master/hub.txt into the URL field.
+    Finally, paste https://raw.githubusercontent.com/meierjl/hubs/master/hub.txt into the URL field.
 
 You should now be able to select the KF297339.1 genome and view these tracks!
 
@@ -22,10 +23,10 @@ Please visit the following site for documentation: https://genome.ucsc.edu/golde
 
 Citations:
 
-This track hub was compiled by Kyle Nilson in the lab of David Price at the University of Iowa (https://price.lab.uiowa.edu/).
+This track hub was compiled by Ming Li and Christopher Ball in the lab of Jeff Meier and David Price at the University of Iowa 
 
-This track hub contains PRO-Seq and PRO-Cap datasets first described in the following manuscript:
+This track hub contains PRO-Seq first described in the following manuscript:
 
-Nucleotide Resolution Comparison of Transcription of Human Cytomegalovirus and Host Genomes Reveals Universal Use of RNA Polymerase II Elongation Control Driven by Dissimilar Core Promoter Elements. Mrutyunjaya Parida, Kyle A. Nilson, Ming Li, Christopher B. Ball, Harrison A. Fuchs, Christine K. Lawson, Donal S. Luse, Jeffery L. Meier, and David H. Price. mBio 2019 Feb 12;10(1). PMID: 30755505 DOI: 10.1128/mBio.02047-18
+Human cytomegalovirus IE2 drives transcription initiation from a select subset of late infection viral promoters by host RNA polymerase II. Ming Li, Christopher B. Ball, Geoffrey Collins, Qiaolin Hu, Donal S. Luse, David H. Price, and Jeffery L. Meier.
 
-This track hub also contains datasets generated and described by Stern-Ginossar N, et al. in their 2012 Science manuscript PMID: 23180859, and Van Damme E, et al. in their 2016 PLoS One manuscript PMID: 27760232. Raw datasets were downloaded from GEO: GSE41605 or ENA: PRJEB15199 and manipulated by Kyle Nilson.
+This track hub also contains datasets generated and described by Stern-Ginossar N, et al. in their 2012 Science manuscript PMID: 23180859, and Van Damme E, et al. in their 2016 PLoS One manuscript PMID: 27760232. Raw datasets were downloaded from GEO: GSE41605 or ENA: PRJEB15199.
