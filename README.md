@@ -1,6 +1,6 @@
 Hub for HCMV TB40-E, Li et. al.,  2020 
 
-This is a curated selection of existing and new HCMV datasets for viewing in the UCSC Genome Browser.
+This is a curated selection of existing and new HCMV TB40/E datasets for viewing in the UCSC Genome Browser.
 
 Usage:
 
