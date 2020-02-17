@@ -7,7 +7,7 @@ Usage:
     First go to the UCSC Genome Browser.
     Then, navigate to My Data > Track Hubs.
     Select the My Hubs tab.
-    Finally, paste https://raw.githubusercontent.com/meierjl/hubs/master/hub.txt into the URL field.
+    Finally, paste https://raw.githubusercontent.com/meierjl/TB40E/master/hub.txt into the URL field.
 
 You should now be able to select the KF297339.1 genome and view these tracks!
 
