@@ -2,7 +2,7 @@ track KF297339.1
 type bigGenePred
 group map
 priority 1
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/KF297339.1.bb
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/KF297339.1.bb
 longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
 shortLabel GenBank KF297339.1
 visibility pack
@@ -13,7 +13,7 @@ track ORFs-GSE41605
 type bigBed 6 .
 group map
 priority 2
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/decoding_HCMV_ORFs.bb
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/decoding_HCMV_ORFs.bb
 longLabel ORFs identified in Decoding HCMV Using Ribosome Profiling (GSE41605)
 shortLabel Identified ORFs
 visibility pack
@@ -33,7 +33,7 @@ track IE2F_No_dTag_Exp1_norm_FW
 parent IE2F_No_dTag_Exp1_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-SIC-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-SIC-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP Rep 1
 shortLabel F Exp2 72h IE2F
 negateValues off
@@ -47,7 +47,7 @@ track IE2F_No_dTag_Exp1_Norm_RV
 parent IE2F_No_dTag_Exp1_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-SIC-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-SIC-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP Rep 1
 shortLabel R Exp2 72h IE2F
 negateValues on
@@ -72,7 +72,7 @@ track IE2F_6h_dTag_Exp1_Norm_FW
 parent IE2F_6h_dTag_Exp1_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp1-KF297339.1-SIC-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp1-KF297339.1-SIC-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection Rep 1
 shortLabel F Exp2 72h IE2F dTAG
 negateValues off
@@ -86,7 +86,7 @@ track IE2F_6h_dTag_Exp1_Norm_RV
 parent IE2F_6h_dTag_Exp1_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp1-KF297339.1-SIC-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp1-KF297339.1-SIC-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection Rep 1
 shortLabel R Exp2 72h IE2F dTAG
 negateValues on
@@ -111,7 +111,7 @@ track IE2F_No_dTag_Exp2_norm_FW
 parent IE2F_No_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-Norm-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP Rep 2
 shortLabel F Exp1 72h IE2F
 negateValues off
@@ -125,7 +125,7 @@ track IE2F_No_dTag_Exp2_Norm_RV
 parent IE2F_No_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-Norm-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP Rep 2
 shortLabel R Exp1 72h IE2F
 negateValues on
@@ -150,7 +150,7 @@ track IE2F_6h_dTag_Exp2_Norm_FW
 parent IE2F_6h_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-Norm-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection Rep 2
 shortLabel F Exp1 72h IE2F dTAG
 negateValues off
@@ -164,7 +164,7 @@ track IE2F_6h_dTag_Exp2_Norm_RV
 parent IE2F_6h_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-Norm-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with dFK for the last 6 hours of infection Rep 2
 shortLabel R Exp1 72h IE2F dTAG
 negateValues on
@@ -189,7 +189,7 @@ track IE2F_No_dTag_Exp2_Flavo_Norm_FW
 parent IE2F_No_dTag_Exp2_Flavo_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-Flavo-KF297339.1-Norm-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-Flavo-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with Flavo for the last hour of infection
 shortLabel F Exp1 72h IE2F Flavo
 negateValues off
@@ -203,7 +203,7 @@ track IE2F_No_dTag_Exp2_Flavo_Norm_RV
 parent IE2F_No_dTag_Exp2_Flavo_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-Flavo-KF297339.1-Norm-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp2-Flavo-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with Flavo for the last hour of infection
 shortLabel R Exp1 72h IE2F Flavo
 negateValues on
@@ -228,7 +228,7 @@ track IE2F_6h_dTag_Exp2_Flavo_Norm_FW
 parent IE2F_6h_dTag_Exp2_Flavo_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-Flavo-KF297339.1-Norm-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-Flavo-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with Flavo for the last hour of infection and dTag for the last 6 hours of infection
 shortLabel F Exp1 72h IE2F Flavo dTAG
 negateValues off
@@ -242,7 +242,7 @@ track IE2F_6h_dTag_Exp2_Flavo_Norm_RV
 parent IE2F_6h_dTag_Exp2_Flavo_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-Flavo-KF297339.1-Norm-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-dTag-Exp2-Flavo-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with Flavo for the last hour of infection and dTag for the last 6 hours of infection
 shortLabel R Exp1 72h IE2F Flavo dTAG
 negateValues on
@@ -267,7 +267,7 @@ track IE2F_6h_PFA_Exp2_Norm_FW
 parent IE2F_6h_PFA_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-Norm-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with PFA for the last 6 hours of infection
 shortLabel F 72h IE2F 6h PFA
 negateValues off
@@ -281,7 +281,7 @@ track IE2F_6h_PFA_Exp2_Norm_RV
 parent IE2F_6h_PFA_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-Norm-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with PFA for the last 6 hours of infection
 shortLabel R 72h IE2F 6h PFA
 negateValues on
@@ -306,7 +306,7 @@ track IE2F_6h_PFA_dTag_Exp2_Norm_FW
 parent IE2F_6h_PFA_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-dTag-Exp2-KF297339.1-Norm-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-dTag-Exp2-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with PFA and dTag for the last 6 hours of infection
 shortLabel F 72h IE2F 6h PFA dTAG
 negateValues off
@@ -320,7 +320,7 @@ track IE2F_6h_PFA_dTag_Exp2_Norm_RV
 parent IE2F_6h_PFA_dTag_Exp2_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-dTag-Exp2-KF297339.1-Norm-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-dTag-Exp2-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with PFA and dTag for the last 6 hours of infection
 shortLabel R 72h IE2F 6h PFA dTAG
 negateValues on
@@ -345,7 +345,7 @@ track a_24_h_FW
 parent a_24_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-Norm-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP 
 shortLabel F Exp3 24h 
 negateValues off
@@ -359,7 +359,7 @@ track a_24_h_RV
 parent a_24_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-Norm-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP 
 shortLabel R Exp3 24h 
 negateValues on
@@ -384,7 +384,7 @@ track a_24_h_Flavo_FW
 parent a_24_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP and treated with Flavo during the last hour of infection
 shortLabel F Exp3 24h Flavo
 negateValues off
@@ -398,7 +398,7 @@ track a_24_h_Flavo_RV
 parent a_24_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP and treated with Flavo during the last hour of infection
 shortLabel R Exp3 24h Flavo
 negateValues on
@@ -423,7 +423,7 @@ track a_72_h_FW
 parent a_72_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-Norm-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40
 shortLabel F Exp3 72h
 negateValues off
@@ -437,7 +437,7 @@ track a_72_h_RV
 parent a_72_h on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-Norm-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40
 shortLabel R Exp3 72h 
 negateValues on
@@ -462,7 +462,7 @@ track a_72_h_Flavo_FW
 parent a_72_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
 shortLabel F Exp3 72h Flavo
 negateValues off
@@ -476,7 +476,7 @@ track a_72_h_Flavo_RV
 parent a_72_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
 shortLabel R Exp3 72h Flavo
 negateValues on
@@ -501,7 +501,7 @@ track a_72_h_PFA_FW
 parent a_72_h_PFA on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-Norm-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with PFA for the duration of the infection
 shortLabel F Exp3 72h PFA
 negateValues off
@@ -515,7 +515,7 @@ track a_72_h_PFA_RV
 parent a_72_h_PFA on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-Norm-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-PFA-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with PFA for the duration of the infection
 shortLabel R Exp3 72h PFA
 negateValues on
@@ -540,7 +540,7 @@ track a_72_h_PFA_Flavo_FW
 parent a_72_h_PFA_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-PFA-KF297339.1-Norm-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-PFA-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with PFA for the duration of the infection and with Flavo for the last hour of the infection
 shortLabel F Exp3 72h PFA Flavo
 negateValues off
@@ -554,7 +554,7 @@ track a_72_h_PFA_Flavo_RV
 parent a_72_h_PFA_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-PFA-KF297339.1-Norm-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-PFA-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with PFA for the duration of the infection and with Flavo for the last hour of the infection
 shortLabel R Exp3 72h PFA Flavo
 negateValues on
@@ -579,7 +579,7 @@ track Merlin_72h_mRNA_Seq_F
 parent Merlin_72h_mRNA_Seq
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/Merlin_mRNA_seq/Merlin-72h-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/Merlin_mRNA_seq/Merlin-72h-FW.bw
 longLabel Merlin_72h_mRNA_Seq_FW
 shortLabel F 72 h Merlin mRNA-Seq
 negateValues off
@@ -593,7 +593,7 @@ track Merlin_72h_mRNA_Seq_RV
 parent Merlin_72h_mRNA_Seq
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/hubs/master/KF297339.1/Merlin_mRNA_seq/Merlin-72h-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/Merlin_mRNA_seq/Merlin-72h-RV.bw
 longLabel Merlin_72h_mRNA_Seq_RV
 shortLabel R 72 h Merlin mRNA-Seq
 negateValues on
