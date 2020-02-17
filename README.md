@@ -21,7 +21,7 @@ Please visit the following site for documentation: https://genome.ucsc.edu/golde
 
 Citations:
 
-This track hub was compiled by Ming Li and Christopher Ball in the lab of Jeff Meier and David Price at the University of Iowa. 
+This track hub was compiled by Ming Li and Christopher Ball in the labs of Jeff Meier and David Price at the University of Iowa. 
 
 This track hub contains PRO-Seq first described in the following manuscript:
 
