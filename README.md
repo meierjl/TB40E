@@ -1,4 +1,4 @@
-#  TB40/E
+# TB40/E
 
 This is a curated selection of existing and new HCMV TB40/E datasets for viewing in the [UCSC Genome Browser](http://www.genome.ucsc.edu/).
 
@@ -27,4 +27,4 @@ This track hub contains PRO-Seq first described in the following manuscript:
 
 Human cytomegalovirus IE2 drives transcription initiation from a select subset of late infection viral promoters by host RNA polymerase II. Ming Li, Christopher B. Ball, Geoffrey Collins, Qiaolin Hu, Donal S. Luse, David H. Price, and Jeffery L. Meier.
 
-This track hub also contains datasets generated and described by Stern-Ginossar N, et al. in their [2012 Science manuscript](https://science.sciencemag.org/content/338/6110/1088) PMID: 23180859, and Van Damme E, et al. in their 2016 PLoS One manuscript PMID: 27760232. Raw datasets were downloaded from GEO: GSE41605 or ENA: PRJEB15199.
+This track hub also contains datasets generated and described by Stern-Ginossar N, et al. in their [2012 Science manuscript](https://science.sciencemag.org/content/338/6110/1088) PMID: 23180859, and Van Damme E, et al. in their [2016 PLoS One manuscript](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164843) PMID: 27760232. Raw datasets were downloaded from GEO: GSE41605 or ENA: PRJEB15199.
