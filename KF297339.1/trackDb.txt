@@ -375,7 +375,7 @@ track a_24_h_Flavo
 compositeTrack on
 type bigWig 0 1000
 group cmvtimecourse
-priority 1
+priority 2
 visibility full
 shortLabel 24h TB40
 longLabel PRO-Seq of HFF infected for 24 hours with TB40 and treated with Flavo during the last hour of infection
