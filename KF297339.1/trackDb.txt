@@ -182,7 +182,7 @@ type bigWig 0 1000
 group IE2-FKBP
 priority 5
 visibility full
-shortLabel 72h IE2F 6h PFA
+shortLabel Exp1 72h IE2F 6h PFA
 longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with PFA for the last 6 hours of infection
 
 track IE2F_6h_PFA_Exp2_Norm_FW
@@ -191,7 +191,7 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with PFA for the last 6 hours of infection
-shortLabel F 72h IE2F 6h PFA
+shortLabel F Exp1 72h IE2F 6h PFA
 negateValues off
 color 34,139,34
 altColor 34,139,34
@@ -205,7 +205,7 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-Exp2-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with PFA for the last 6 hours of infection
-shortLabel R 72h IE2F 6h PFA
+shortLabel R Exp1 72h IE2F 6h PFA
 negateValues on
 color 34,139,34
 altColor 34,139,34
@@ -221,7 +221,7 @@ type bigWig 0 1000
 group IE2-FKBP
 priority 6
 visibility full
-shortLabel 72h IE2F 6h PFA dTAG
+shortLabel Exp1 72h IE2F 6h PFA dTAG
 longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with PFA and dTag for the last 6 hours of infection
 
 track IE2F_6h_PFA_dTag_Exp2_Norm_FW
@@ -230,7 +230,7 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-dTag-Exp2-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with PFA and dTag for the last 6 hours of infection
-shortLabel F 72h IE2F 6h PFA dTAG
+shortLabel F Exp1 72h IE2F 6h PFA dTAG
 negateValues off
 color 34,139,34
 altColor 34,139,34
@@ -244,7 +244,7 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/IE2-FKBP/2019-03-13-HFF-TB40e-IE2F-6h-PFA-dTag-Exp2-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP and treated with PFA and dTag for the last 6 hours of infection
-shortLabel R 72h IE2F 6h PFA dTAG
+shortLabel R Exp1 72h IE2F 6h PFA dTAG
 negateValues on
 color 34,139,34
 altColor 34,139,34
