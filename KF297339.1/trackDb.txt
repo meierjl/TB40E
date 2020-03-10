@@ -581,7 +581,7 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/Merlin_mRNA_seq/Merlin-72h-FW.bw
 longLabel Merlin_72h_mRNA_Seq_FW
-shortLabel F 72 h Merlin mRNA-Seq
+shortLabel F 72h Merlin mRNA-Seq
 negateValues off
 color 255,0,0
 altColor 255,0,0
@@ -595,7 +595,7 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/Merlin_mRNA_seq/Merlin-72h-RV.bw
 longLabel Merlin_72h_mRNA_Seq_RV
-shortLabel R 72 h Merlin mRNA-Seq
+shortLabel R 72h Merlin mRNA-Seq
 negateValues on
 color 255,0,0
 altColor 255,0,0
