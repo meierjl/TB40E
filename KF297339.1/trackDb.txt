@@ -388,8 +388,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/mas
 longLabel Forward strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP and treated with Flavo during the last hour of infection
 shortLabel F Exp3 24h Flavo
 negateValues off
-color 0, 0, 255
-altColor 0, 0, 255
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -402,8 +402,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/mas
 longLabel Reverse strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP and treated with Flavo during the last hour of infection
 shortLabel R Exp3 24h Flavo
 negateValues on
-color 0, 0, 255
-altColor 0, 0, 255
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -466,8 +466,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/mas
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
 shortLabel F Exp3 72h Flavo
 negateValues off
-color 113, 35, 124
-altColor 113, 35, 124
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -480,8 +480,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/mas
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
 shortLabel R Exp3 72h Flavo
 negateValues on
-color 113, 35, 124
-altColor 113, 35, 124
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -544,8 +544,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/mas
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with PFA for the duration of the infection and with Flavo for the last hour of the infection
 shortLabel F Exp3 72h PFA Flavo
 negateValues off
-color 113, 35, 124
-altColor 113, 35, 124
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -558,8 +558,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/mas
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with PFA for the duration of the infection and with Flavo for the last hour of the infection
 shortLabel R Exp3 72h PFA Flavo
 negateValues on
-color 113, 35, 124
-altColor 113, 35, 124
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
