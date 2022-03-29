@@ -349,8 +349,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/mas
 longLabel Forward strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP 
 shortLabel F Exp3 24h 
 negateValues off
-color 255,102,0
-altColor 255,102,0
+color 0,0,255
+altColor 0,0,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -363,8 +363,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/mas
 longLabel Reverse strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP 
 shortLabel R Exp3 24h 
 negateValues on
-color 255,102,0
-altColor 255,102,0
+color 0,0,255
+altColor 0,0,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
